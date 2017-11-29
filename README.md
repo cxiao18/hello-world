@@ -13,6 +13,6 @@ The Office and Gilmore Girls define me.
 
 Favorite word: eureka!
 
-Quote: "You couldn't handle my undivided attention.  -Dwight Schrute
+Quote: "You couldn't handle my undivided attention."  -Dwight Schrute
 
 
