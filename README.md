@@ -12,6 +12,8 @@ That's all.
 
 Also, my favorite word is eureka.
 
+I love cheese. - Michael
+
 <!---To open repositories in sublime-->
 <!---Clone the repository, click open in finder, open in sublime-->
 
