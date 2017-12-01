@@ -10,3 +10,8 @@ So 'Con' comes from Connecticut and 'nie' is the closest English translation of 
 That's all. 
 
 
+Also, my favorite word is eureka.
+
+<!---To open repositories in sublime-->
+<!---Clone the repository, click open in finder, open in sublime-->
+
